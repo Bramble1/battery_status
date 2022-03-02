@@ -10,3 +10,7 @@ Monitor the battery status and print to stdout. Useful when I want to check how 
 
     ./sbat
         "./program <interval (minutes)>"
+
+# Screenshot
+
+![alt text](https://i.imgur.com/Dd6FWSx.jpeg)
