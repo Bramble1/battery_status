@@ -13,4 +13,4 @@ Monitor the battery status and print to stdout. Useful when I want to check how 
 
 # Screenshot
 
-![alt text](https://imgur.com/gallery/l1cI0LE)
+![alt text](https://i.imgur.com/LfUnXDa.png)
