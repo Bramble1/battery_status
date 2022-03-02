@@ -4,13 +4,6 @@
 /*Main relies upon and uses the functions within interface/.h To increase readability*/
 int main(int argc, char *argv[])
 {
-	/*if no arguments, then print the help text and exit.*/
-/*	if(argc==1)
-	{
-		printf("./program <interval in minutes>\n");
-		exit(EXIT_SUCCESS);
-	} */
-
 	/*8 bytes of static memory set to 0 will hold interval time for battery status updates*/
 	double number = 0x0;
 	
