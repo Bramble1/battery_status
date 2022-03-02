@@ -6,7 +6,7 @@ Monitor the battery status and print to stdout. Useful when I want to check how 
     chmod u+x compile.sh
     ./compile.sh
 
-# Eexecute with 0 arguments to see how to use program
+# Execute with 0 arguments to see how to use program
 
     ./sbat
         "./program <interval (minutes)>"
