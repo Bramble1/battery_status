@@ -1,5 +1,5 @@
 # battery_status
-Monitor the battery status and print to stdout. Useful when I want to check how long left I have off battery,when on and off charge. For my own use.
+"C Script" to Monitor the battery status and print to stdout. Useful when I want to check how long left I have off battery,when on and off charge. For my own use.
 
 # setup
 
